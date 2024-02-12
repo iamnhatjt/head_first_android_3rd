@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter4</string>
+    <string name="button">Button</string>
+    <string name="pause">pause</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+
+</resources>
